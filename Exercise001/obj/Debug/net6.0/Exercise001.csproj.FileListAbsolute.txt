@@ -1,0 +1,15 @@
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\Exercise001.csproj.AssemblyReference.cache
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\Exercise001.GeneratedMSBuildEditorConfig.editorconfig
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\Exercise001.AssemblyInfoInputs.cache
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\Exercise001.AssemblyInfo.cs
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\Exercise001.csproj.CoreCompileInputs.cache
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\bin\Debug\net6.0\Exercise001.exe
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\bin\Debug\net6.0\Exercise001.deps.json
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\bin\Debug\net6.0\Exercise001.runtimeconfig.json
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\bin\Debug\net6.0\Exercise001.dll
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\bin\Debug\net6.0\Exercise001.pdb
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\Exercise001.dll
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\refint\Exercise001.dll
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\Exercise001.pdb
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\Exercise001.genruntimeconfig.cache
+J:\GBУчёба\Studies\basics_of_programming\HomeSeminarProject\HomeWorkS001\Exercise001\obj\Debug\net6.0\ref\Exercise001.dll
